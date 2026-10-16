@@ -170,7 +170,7 @@ $currentYear = date('Y');
                             <i class="bi bi-grid-1x2-fill"></i>
                         </div>
                         <h4>Layout Multi-Zone Widget</h4>
-                        <p>Bagi layar TV menjadi beberapa zona: video promosi, teks berjalan (running text), jam digital, dan cuaca terintegrasi.</p>
+                        <p>Bagi layar TV menjadi beberapa zona: video promosi, Banner Infromasi,Promo Produk.</p>
                     </div>
                 </div>
 
